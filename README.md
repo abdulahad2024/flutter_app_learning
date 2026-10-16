@@ -1,17 +1,25 @@
-# flutter_app_learning
 
-flutter_app_learning
+#📱 App Feature  & Screen Layout
 
-## Getting Started
+<a href = "https://github.com/abdulahad2024/live_tv/releases/download/liveapp/live-tv.apk" >
+  
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFsd-c38zgyw-xMG2nBHqRm_Uhxj1AQfG8a7HJsS562UyEFs38lB6yxWwq63zcaDAd-6Zdjby4-_apOVEQSWAX9A8HTgw-PMfXAj0hm-R3RHd6o8xhhQC0gKevnskKwV0-8QvE2tN0_5J2Wu4pa-b22S04VVuzi-3SvuDNVfVbCgDZ700Xr05zVKRvVPFm/s885/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f415676587345693856486a734673374f465a4e6c746445784347336e55572d6e6b68503666574f374f6a676e2d386f765a6d75346a59.png)
 
-This project is a starting point for a Flutter application.
+</a>
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_Vfk1MVyUxohyphenhyphenVQAW95w7CoKawLLTvegYBmR8ftrT2q9bfcKXCNA35tGRGLNrfpDtmbze_XPVE6JI-Zh_QXeHx-NZ9AZ858gld4HSbfdU_NCG04XxKHLzHWDIM6I-PFIqrDKkurgaEdvx8G9S73BlMebuXFru9Z5XmKj4IEA06gJUOA3XOV-IPhOXsZMF/s2848/1792126994405_100.PNG)
+
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCSTlUbvh-l7rB-Tl0EVF3KAMA2Gdjtj-2WgU3EdzKP53vv0DYSYgnpkK50onKXwMVa8j9K5MJjfi53FawkJn3cR_aZxj7f8BqEiytdTWpbsKRzv-Ay88aWqBm4iyaDm-ylsjSRyXWQfYCPQPg2zeQWaRgRkMR8auuXHIhtZ5m_CSR4U2Kz5IjfXl0zgiB/s2848/1792126998446_100.PNG)
+
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVq1fTGceZi_p_DxAZTFH7RkjeOh4qtsleklDquvICPYFt-Qh41joEWryg67Gb5i8Luht7SCke6t3E6HS7hTizrsfFlUryrWZlNdz9_zypwHyUWs2QrgVsdiEoKZ81Sl5yCRYduzctApqK75HyW4poQ-Uhv4xIR222gjTeG4yC7NcQkB1EwVh2EwHSHM1Q/s2848/1792127001818_100.PNG)
+
+
+
+
+
+
+
